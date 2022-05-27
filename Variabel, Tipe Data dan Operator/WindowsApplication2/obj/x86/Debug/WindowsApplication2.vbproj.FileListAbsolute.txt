@@ -1,0 +1,9 @@
+D:\Project\Pemrograman .Net\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+D:\Project\Pemrograman .Net\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+D:\Project\Pemrograman .Net\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+D:\Project\Pemrograman .Net\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form1.resources
+D:\Project\Pemrograman .Net\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+D:\Project\Pemrograman .Net\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+D:\Project\Pemrograman .Net\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+D:\Project\Pemrograman .Net\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+D:\Project\Pemrograman .Net\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb

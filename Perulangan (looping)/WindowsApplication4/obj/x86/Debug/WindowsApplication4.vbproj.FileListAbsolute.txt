@@ -1,0 +1,9 @@
+D:\Project\Pemrograman .Net\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+D:\Project\Pemrograman .Net\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+D:\Project\Pemrograman .Net\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+D:\Project\Pemrograman .Net\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Form1.resources
+D:\Project\Pemrograman .Net\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Resources.resources
+D:\Project\Pemrograman .Net\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
+D:\Project\Pemrograman .Net\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.exe
+D:\Project\Pemrograman .Net\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.xml
+D:\Project\Pemrograman .Net\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.pdb
